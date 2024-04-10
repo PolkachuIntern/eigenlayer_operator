@@ -1,2 +1,7 @@
-
-hello
+{
+  "name": "Polkachu",
+  "website": "https://polkachu.com",
+  "description": "Polkachu is the trusted staking service provider for blockchain projects. Contact us at hello@polkachu.com",
+  "logo": "",
+  "twitter": "https://twitter.com/polka_chu"
+}
